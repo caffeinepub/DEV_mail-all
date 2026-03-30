@@ -1,0 +1,8 @@
+{
+  "frontend/src/App.tsx": "Main application component that sets up ThemeProvider, QueryClient, and renders the header, quote form, footer, and toast notifications.",
+  "frontend/src/components/Header.tsx": "Header component displaying the app title with a sparkle icon and descriptive subtitle.",
+  "frontend/src/components/Footer.tsx": "Footer component with copyright notice and caffeine.ai attribution link.",
+  "frontend/src/components/QuoteEmailForm.tsx": "Main form component with email input, validation, submission handling, and success/error message display.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for fetching random quotes and sending quote emails to the backend.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring a purple/indigo gradient theme for both light and dark modes, plus custom animations."
+}
